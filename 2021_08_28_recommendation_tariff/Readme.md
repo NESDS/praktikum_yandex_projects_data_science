@@ -17,4 +17,4 @@
 
 ---
 ### Используемые библиотеки 🛠️
-``` pandas, seaborn, matplotlib, plotly, numpy, sklearn ```
+``` pandas, seaborn, matplotlib, numpy, sklearn ```
