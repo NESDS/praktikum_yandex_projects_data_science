@@ -17,4 +17,4 @@
 
 ---
 ### Используемые библиотеки 🛠️
-``` pandas, pandas_profiling, seaborn, numpy, sklearn, catboost, lightgbm  ```
+``` pandas, pandas_profiling, numpy, sklearn, catboost, lightgbm  ```
