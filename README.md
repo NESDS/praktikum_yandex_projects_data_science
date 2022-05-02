@@ -1,7 +1,7 @@
 # Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме по профессии "Специалист по Data Science"
 | Дата сдачи | Название проекта | Сфера | Описание | Стек |
 |:----| :-------------- | :--- |:--------|:----|
-|2021.12.17| [Проект для «Викишоп» с BERT](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2021_12_17_toxic_comments) | Интернет-магазин | Построение модели для классификации комментариев на позитивные и негативные | ```pandas, numpy, re, Mystem, nltk, seaborn, matplotlib, sklearn, catboost, torch```
+|2021.12.17| [Проект для «Викишоп» с BERT](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2021_12_17_toxic_comments) | Интернет-магазин | Построение модели для классификации комментариев на позитивные и негативные | ```pandas, numpy, re, Mystem, nltk, seaborn, matplotlib, sklearn, catboost, torch, ppb```
 |2021.12.01| [Прогнозирование заказов такси](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2021_12_01_taxi) | Такси | Построение модели для прогнозирования количества заказов такси на следующий час | ```pandas, matplotlib, numpy, statsmodels, sklearn, catboost, lightgbm```
 |2021.11.07| [Определение стоимости автомобилей](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2021_11_07_autos) | Продажа автомобилей | Построение модели для определения стоимости автомобиля | ```pandas, pandas_profiling, numpy, sklearn, catboost, lightgbm```
 |2021.10.21| [Защита персональных данных клиентов](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2021_10_21_data_conversion) | Страховая компания | Разработка алгоритма преобразования данных | ```pandas, seaborn, matplotlib, plotly, numpy, sklearn```
