@@ -17,4 +17,4 @@
 
 ---
 ### Используемые библиотеки 🛠️
-``` pandas, numpy, re, Mystem, nltk, seaborn, matplotlib,  sklearn, catboost, torch  ```
+``` pandas, numpy, re, Mystem, nltk, seaborn, matplotlib,  sklearn, catboost, torch, ppb  ```
