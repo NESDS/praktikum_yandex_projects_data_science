@@ -11,3 +11,5 @@
 |2021.09.29| [Выбор локации для скважины](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2021_09_29_location_well) | Промышленность | Определить регион, где добыча нефти принесёт наибольшую прибыль. | ```pandas, seaborn, matplotlib, plotly, numpy, sklearn```
 |2021.09.18| [Отток клиентов](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2021_09_18_churn_clients) | Банк | Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. | ```pandas, seaborn, matplotlib, plotly, numpy, sklearn```
 |2021.08.28| [Рекомендация тарифов](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2021_08_28_recommendation_tariff) | Мобильная связь | Выбор оптимального тарифа для клиента. | ```pandas, seaborn, matplotlib, numpy, sklearn```
+![diplom](https://github.com/NESDS/praktikum_yandex_projects/blob/main/diploma_page-0001.jpg)
+![](https://github.com/NESDS/praktikum_yandex_projects/blob/main/diploma_page-0002.jpg)
