@@ -1,6 +1,7 @@
 # Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме по профессии "Специалист по Data Science"
 | Дата сдачи | Название проекта | Сфера | Описание | Стек |
 |:----| :-------------- | :--- |:--------|:----|
+|2022.02.06| [Проект "Телеком"](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2022_02_06_telecom_project) | Телеком | Построение модели для предсказания оттока клиеннтов | ```pandas, seaborn, matplotlib, plotly, numpy, sklearn, catboost, lightgbm, xgboost```
 |2022.01.22| [Определение возраста покупателей](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2022_01_22_age_determination) | Различные сферы | Построение модели для определения приблизительного возраст человека | ```pandas, numpy, plotly, seaborn, matplotlib, tensorflow```
 |2021.12.17| [Проект для «Викишоп» с BERT](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2021_12_17_toxic_comments) | Интернет-магазин | Построение модели для классификации комментариев на позитивные и негативные | ```pandas, numpy, re, Mystem, nltk, seaborn, matplotlib, sklearn, catboost, torch, ppb```
 |2021.12.01| [Прогнозирование заказов такси](https://github.com/NESDS/praktikum_yandex_projects_data_science/tree/main/2021_12_01_taxi) | Такси | Построение модели для прогнозирования количества заказов такси на следующий час | ```pandas, matplotlib, numpy, statsmodels, sklearn, catboost, lightgbm```
